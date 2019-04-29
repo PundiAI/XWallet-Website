@@ -1,0 +1,101 @@
+html, body {
+  position:relative;
+  width: 100%;
+}
+body {
+  margin: 0;
+  display: -webkit-box;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+  -webkit-text-size-adjust:100%;
+  border: 0;
+  outline: 0;
+  font-family:"HelveticaNeueLTPro-Nm","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5{
+  font-family:"HelveticaNeueLTPro-Bd","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+article,
+aside,
+body,
+dialog,
+figure,
+footer,
+h4,
+header,
+li,
+menu,
+nav,
+p,
+section,
+ul{
+  display:block;
+  margin:0;
+  padding:0;
+}
+ul{
+  list-style:none;
+}
+img{
+  display:inline-block;
+}
+a,
+input,
+select,
+textarea{
+  outline:0;
+}
+input:focus{
+  -webkit-tap-highlight-color:transparent;
+  -webkit-user-modify:read-write-plaintext-only;
+}
+a{
+  text-decoration:none;
+  -webkit-tap-highlight-color:transparent;
+}
+textarea{
+  resize:none;
+}
+
+#app {
+  width: 100%;
+}
+
+*{
+}
+
+@font-face {
+  font-family: 'HelveticaNeueLTPro-Bd';
+  src: url('../../assets/font/HelveticaNeue-Bold.otf');
+}
+@font-face {
+  font-family: 'HelveticaNeueLTPro-Md';
+  src: url('../../assets/font/HelveticaNeue-Medium.otf');
+}
+@font-face {
+  font-family: 'HelveticaNeueLTPro-Nm';
+  src: url('../../assets/font/HelveticaNeue-Regular.otf');
+}
+@font-face {
+  font-family: 'HelveticaNeueLTPro-Lt';
+  src: url('../../assets/font/Helvetica-Light.otf');
+}
+.font-Bd{
+  font-family:"HelveticaNeueLTPro-Bd","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+.font-Md{
+  font-family:"HelveticaNeueLTPro-Md","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+.font-Nm{
+  font-family:"HelveticaNeueLTPro-Nm","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+.font-Lt{
+  font-family:"HelveticaNeueLTPro-Lt","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+}
+

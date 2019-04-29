@@ -1,0 +1,118 @@
+
+  html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th,textarea, td {
+    border: 0 none;
+    font-size: inherit;
+    color: inherit;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    font-family:"HelveticaNeueLTPro-Bd","Helvetica Neue","PingFang SC","Microsoft YaHei","Simsun",Helvetica,Arial,Verdana,sans-serif;
+    src: url('../font/HelveticaNeue-Bold.otf');
+  }
+
+  html,body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+a {
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+
+.download {
+    height: 100%;
+    background-image: url('../img/pic_bg_coin_share.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.downloadTitle {
+    font-size: 1.4933rem;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 1.7067rem;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    letter-spacing: -0.0933rem;
+    text-shadow: 0 0.0133rem 0 #134ECF;
+}
+
+.downloadTop {
+    width: 1.8667rem;
+    height: 0.6667rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0.5333rem;
+    padding-bottom: 1.12rem;
+}
+
+.downloadTitleCom {
+    font-size: 0.56rem;
+    color: #FFFFFF;
+    letter-spacing: -0.0128rem;
+    text-align: center;
+    line-height: 0.8rem;
+    text-shadow: 0 0.0133rem 0 #154ACE;
+    font-weight: normal;
+}
+
+.titlePadd {
+    padding-bottom: 0.3467rem;
+}
+
+.downloadBottom {
+   position: absolute;
+   bottom: 0.4533rem;
+   left: 0;
+   padding: 0 0.4533rem;
+   right: 0;
+}
+
+.downloadBottomImg {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.commonBigBtn {
+    border-radius: 0.1067rem;
+    line-height:1.6rem;
+    height: 1.6rem;
+    font-size: 0.5333rem;
+    width: 100%;
+    margin-top: 0.48rem;
+    border: 0.0267rem solid transparent;
+    outline: none;
+    background-color: #fff;
+    color: #2A4FD6;
+    text-align: center;
+    display: block;
+    box-shadow: 0 1px 5px 0 rgba(0,35,159,0.45);
+    font-weight: 400;
+  }
+
+  .fx {
+    background-image: url('../img/pic_fx_font@2x.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1.5147rem;
+    width: 1.44rem;
+    display: block;
+    margin: 0 0.2667rem;
+  }
