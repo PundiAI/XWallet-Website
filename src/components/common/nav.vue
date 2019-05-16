@@ -36,6 +36,7 @@
         warning: "hide",
         menu: [
           { "name": "Home", "path": "https://pundix.com/"  },
+          { "name": "Open Platform", "path": "https://developer.pundix.com"  },
           { "name": "XPOS", "path": "https://pundix.com/product"  },
           { "name": "XWallet", "path": "/"},
           { "name": "NPXS", "path": "https://pundix.com/npxs"  },
